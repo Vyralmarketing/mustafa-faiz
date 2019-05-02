@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Off-Market Homes
-permalink: /off-market
+permalink: /off-market/
 ---
 
 <h3 class="center">Fill out the form below to request lists and information on off-market homes.</h3>
