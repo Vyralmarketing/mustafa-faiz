@@ -24,7 +24,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/off-market</loc>
+<loc>http://localhost:4000/off-market/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/search.html</loc>

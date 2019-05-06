@@ -8,7 +8,9 @@ permalink: /off-market/
 
 <form class="contact-form" method="post" action="https://formspree.io/{{site.data.settings.client.email}}">
   <input type="text" name="name" placeholder="Name" required>
+  <input type="text" name="phone" placeholder="Phone" required>
   <input type="email" name="_replyto" placeholder="Email" required>
+  <input type="text" name="areas" placeholder="What areas or zip codes are you interested in?" required>
   <textarea name="Message" placeholder="Optional Message"></textarea>
   <!-- Cloud cannon settings field -->
   <div class="hidden">

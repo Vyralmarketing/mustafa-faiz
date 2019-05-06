@@ -5,10 +5,10 @@ show_custom_links: true
 custom_links:
   - title: Off-Market Homes
     url: /off-market/
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Home Valuation
+    url: https://cloudattract.com/55ace7
 
 client:
   name: Mustafa Faiz
@@ -21,7 +21,7 @@ client:
   brand: RE/MAX Signature
   brokerage:
   market: Houston
-  address: 1723 Campbell Road Houston, TX 77080
+  address: 820 Gessner Rd. #120 Houston, TX 77024
   phone: 281-886-8242
   phone_type:
   phone2:
@@ -29,11 +29,11 @@ client:
   email: mfaiz@remax.net
   url: https://www.har.com/mustafa-faiz/agent_mfai
 
-CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: https://cloudattract.com/55ace7
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+# CTAs:
+#   first_CTA_text: Home Valuation
+#   first_CTA_URL: https://cloudattract.com/55ace7
+#   second_CTA_text: Home Search
+#   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -42,12 +42,12 @@ sidebar_CTA:
     CTA_link_text: "Free Home Value Report"
     CTA_url: https://cloudattract.com/55ace7
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Houston Home?"
-    CTA_text2: "Search the entire MLS for your Houston home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Looking for a Houston Home?"
+#     CTA_text2: "Search the entire MLS for your Houston home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
