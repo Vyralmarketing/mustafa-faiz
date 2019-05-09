@@ -6,17 +6,6 @@ permalink: /testimonials/
 
 <h1>Client Testimonials</h1>
 
-<div class="client-testimonial">
-<!-- insert iframe -->
-<p class ="testimonial-text">
-<!-- QUOTE TEXT -->
-</p>
-<p class="testimonial-author">
-<!-- QUOTE AUTHOR -->
-</p>
-<hr>
-
-
 <div class="client-testimonial"><!--base32-c9gq6t9k68pk8cbde1vqexhncmwqachgenh3ct9tcxr7ax1t60pp4rbkcmtk4-base32--><p class="testimonial-text"><!--base32-c9gq6t9k68pk8c9rdtgppxbd71pped9rd1gq4rb7cwr2urk1edjk6cg-base32--></p><p>We highly recommend Mustafa. Trying to sell a property long distance has it's challenges.  We started out FSBO.  After speaking to Mustafa, he sent us video correspondence we could watch at our convenience.  Although he followed up, he was not pushy.  He advised us honestly and accurately.  We've never even met in person but I feel like we know him.  We were more than pleased with his services and would highly recommend him to anyone else.</p><p class="testimonial-author"><!--base32-c9gq6t9k68pk8c9rdtgppxbd71pped1jdtgpue9h6xq38e1g5nh62wv56ct0-base32-->- Brandy Waugh</p><hr />
 
 <p class="testimonial-text"><!--base32-c9gq6t9k68pk8c9rdtgppxbd71pped9rd1gq4rb7cwr2urk1edjk6cg-base32--></p><p>The best realtor ever!! He took a house that everyone else said was worth nothing and I was going to lose on the house and turned it around and end up making money on the home!! He used a professional approach in every aspect from let us know the color of mulch to put down to have cleaners and photographer to come to the house!! I think the pictures are what set the house apart from the others. He is my realtor now, in the future, and for my family and friends!! Moose is the best that there comes!!</p><p class="testimonial-author"><!--base32-c9gq6t9k68pk8c9rdtgppxbd71pped1jdtgpue9h6xq38e1g5nh62wv56ct0-base32-->- Seller</p><hr />
