@@ -3,10 +3,10 @@ title: Houston Real Estate Video Blog with Mustafa Faiz
 description: Our mission at RE/MAX Signature is to be your best resource for Houston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The RE/MAX Signature, your professional Houston Real Estate Agents.
 show_custom_links: true
 custom_links:
+  - title: Testimonials
+    url: /testimonials/ 
   - title: Off-Market Homes
     url: /off-market/
-  - title: Testimonials
-    url: /testimonials/    
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: Home Valuation
