@@ -18,12 +18,12 @@ tags:
 
 Our market remains busy, and it’s still an opportune time to command a high price selling your home. &nbsp;
 
-I know what’s happening in the Houston area, specifically pertaining to home values, that will directly affect you.
+**I know what’s happening in the Houston area, specifically pertaining to home values, that will directly affect you.**
 
 So, I’ll be posting two monthly video messages on this blog to keep you updated.
 
 They will be valuable and useful in helping you stay on top of what’s happening in the community.
 
-Check back because content will be coming soon\!
+**Check back because content will be coming soon\!**
 
 I’m excited to keep you updated on what’s happening in the Houston area\!
