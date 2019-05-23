@@ -26,6 +26,6 @@ A lot of people have been asking me to explain what’s happening in our Houston
 
 If you’re a seller in this price range, this high demand will definitely work in your favor. You’ll be able to sell quickly and for top dollar, thanks to the high number of interested buyers.&nbsp;
 
-**In higher price ranges, though, buyers have the upper hand.** The $400,000 and up price range has a lot of inventory, which means listings will take a little longer than normal to move off the market. Sellers will need to be patient (and flexible) when looking for buyers in this price range.
+**In higher price ranges, though, buyers have the upper hand.** The $400,000-and-up price range has a lot of inventory, which means listings will take a little longer than normal to move off the market. Sellers will need to be patient (and flexible) when looking for buyers in this price range.
 
 If you have any other questions or would like to know more about what’s happening now in our market, feel free to give my team or me a call or send us an email. We look forward to hearing from you soon.
