@@ -8,14 +8,13 @@ tags:
 excerpt: >-
   What’s happening now in our Houston real estate market? Find out with this
   quick message.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mustafa+Faiz/Whats+the+Houston+Market+Like+Right+Now_.mp4
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Mustafa+Faiz/5+30+MU+Edit.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-21mu-np.jpg
-youtube_code: nEaMitAZfog
+youtube_code: 7vn3jfGWscY
 ---
 
 {% include youtube.html %}
