@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Welcome to my new YouTube channel!
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mustafa+Faiz/Welcome_to_My_YouTube_Channel_900831949.zip
+  https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/Let+My+New+YouTube+Channel+Be+a+Resource+for+Your+Real+Estate+Needs.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-21-trailer-np.jpg
-youtube_code: WSwfav9A34M
+youtube_code: YHHRLiKcV8A
 ---
 
 {% include youtube.html %}
