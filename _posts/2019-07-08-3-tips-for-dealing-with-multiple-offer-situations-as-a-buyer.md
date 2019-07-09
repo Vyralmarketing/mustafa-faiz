@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Tips for Dealing With Multiple Offer Situations as a Buyer
+title: 3 Tips for Dealing With Multiple-Offer Situations as a Buyer
 date: 2019-07-08 00:00:00
 tags:
   - Real Estate
