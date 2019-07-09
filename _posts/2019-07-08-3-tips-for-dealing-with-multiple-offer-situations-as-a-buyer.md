@@ -27,7 +27,7 @@ As a homebuyer, there are three things you can do that will improve your offer a
 
 {% include pullquote.html %}
 
-**1\. Accommodate the seller.** Find out what the sellers needs are so that your offer can accommodate them. Most of the time, the seller’s needs go beyond price—for example, does the seller need time to move out after closing? If you know that, you can write your offer to suit their needs, making yours more attractive in their eyes.&nbsp;
+**1\. Accommodate the seller.** Find out what the seller's needs are so that your offer can accommodate them. Most of the time, the seller’s needs go beyond price—for example, does the seller need time to move out after closing? If you know that, you can write your offer to suit their needs, making yours more attractive in their eyes.&nbsp;
 
 **2\. Simplify your offer.** Going in, a lot of buyers try to negotiate repairs, closing costs, and other parts of the deal with the seller. In a multiple-offer situation, never do that—keep your offer simple. Focus on the price, down payment, and closing date of your offer. The reason to keep it simple is that your objective isn’t to get a good deal, but rather to secure the contract. Once you’ve done that, you’ll have up to 10 days to negotiate all those items anyway.&nbsp;
 
