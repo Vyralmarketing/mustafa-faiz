@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/compyt.jpg
+youtube_alternate_image: /uploads/7-9-np.jpg
 youtube_code: tNOu92A3Jnc
 ---
 
