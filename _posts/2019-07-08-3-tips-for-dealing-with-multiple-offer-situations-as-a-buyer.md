@@ -8,7 +8,7 @@ excerpt: >-
   What can homebuyers do to come out on top in a multiple-offer situation? Stay
   tuned.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/3+Tips+for+Dealing+With+Multiple+Offer+Situations+as+a+Buyer.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/3+Tips+for+Dealing+With+Multiple+Offer+Situations+as+a+Buyer+(1).mp4
 pullquote: >-
   If you can do these three things, you will have a competitive edge over the
   competition in a multiple-offer situation.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/compyt.jpg
-youtube_code: _d6ODpxscjU
+youtube_code: tNOu92A3Jnc
 ---
 
 {% include youtube.html %}
