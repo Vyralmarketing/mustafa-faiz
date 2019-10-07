@@ -21,7 +21,7 @@ client:
   name: Mustafa Faiz
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Prior to his real estate career, Mustafa served with the U.S. Army in
     Afghanistan as a linguist. He is fluent in four languages and loves meeting
     new people. Mustafa and his team are committed to providing quality service
@@ -41,7 +41,7 @@ client:
   brand: RE/MAX Signature
   brokerage:
   market: Houston
-  address: 820 Gessner Rd.
+  address: '820 Gessner Rd. #120 Houston, TX 77024'
   phone: 281-886-8242
   phone_type:
   phone2:
