@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/the-importance-of-a-buyers-walk-through-youtube.jpg
-youtube_code: 'https://youtu.be/W4e2k9LQUP0'
+youtube_code: 'https://youtu.be/dQ14u6sf8-M'
 ---
 
 {% include youtube.html %}Doing a buyer’s walk-through is extremely important. A buyer’s walk-through (or a final walk-through) is a crucial step before the closing where the buyer and the real estate agent go to reexamine the property and make sure that the property is in the same condition in which they originally found it. It is not a reinspection of the property, so it shouldn't take you multiple hours.
