@@ -17,6 +17,8 @@ youtube_code: TxrtvLmF4p0
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Why should you sell your home this winter? Let’s discuss.</em></p>
+
 Conventional wisdom tells us that winter is the slowest time of year for real estate and there is some truth to this. However, just because there are fewer buyers and sellers active on the market during this season, that doesn’t mean activity comes to a halt. In fact, homes tend to sell faster during the winter than any other time of year. There are two main reasons this is the case:&nbsp;
 
 **1\. There’s less competition among sellers.** Many sellers falsely assume that this is a bad time of year to list, so they steer clear of the market until spring rolls around. This allows sellers who do make a move during the winter to stand out and command a higher level of interest thanks to the lack of options available to buyers.
