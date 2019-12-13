@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Selling Your Home in the  Winter Really Like?
-date: 2019-12-13 20:34:11
+date: 2019-12-13 20:34:00
 tags:
   - Home Seller Tips
 excerpt: Why should you sell your home this winter? Let’s discuss.
