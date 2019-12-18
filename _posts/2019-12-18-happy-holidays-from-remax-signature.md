@@ -15,7 +15,9 @@ youtube_alternate_image: /uploads/wishing-you-a-wonderful-holiday-season-youtube
 youtube_code: ftbjnVLkjak
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Wishing you and your family a happy holiday season.</em></p>
 
 On behalf of my team here at RE/MAX Signature, I want to wish you and your family a happy holiday season. I’d also like to acknowledge each and every one of you for trusting us with your real estate dreams, for doing business with us, and most importantly, for sending us a record-shattering number of referrals this year. We are so grateful for the opportunities you’ve given us in 2019.&nbsp;
 
