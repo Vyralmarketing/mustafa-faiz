@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Happy Holidays from RE/MAX Signature
-date: 2019-12-18 20:44:32
+date: 2019-12-18 20:44:00
 tags:
   - Real Estate
-excerpt:
+excerpt: Wishing you and your family a happy holiday season.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/2019/December/What+Is+Selling+Your+Home+in+the+Winter+Really+Like_.mp4
 pullquote:
