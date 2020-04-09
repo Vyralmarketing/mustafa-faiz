@@ -19,4 +19,6 @@ youtube_code: 'https://youtu.be/zDmyVxw5xCk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m sharing a current Houston real estate market update and an essential document if you’re going to be conducting real estate in the next few months.</em></p>
+
 Today I’m sharing a quick update about what’s happening in the Houston real estate market. Overall, activity has slowed down, for justifiable reasons. However, dozens of homes continue to be listed daily. I encourage you to use this essential document called the “COVID-19 Addendum” if you’re going to be involved in a real estate transaction within the next few months.
