@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Latest Houston Market Update
-date:
+date: 2020-04-09 19:54:57
 tags:
   - Market Update
 excerpt: >-
