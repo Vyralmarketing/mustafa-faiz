@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mustafa-faiz-market-update-coronavirus-youtube.jpg
-youtube_code: 'https://youtu.be/zDmyVxw5xCk'
+youtube_code: 'https://youtu.be/2wRjCyM-8OQ'
 ---
 
 {% include youtube.html %}
