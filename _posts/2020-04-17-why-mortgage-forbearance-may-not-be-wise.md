@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Mortgage Forbearance May Not Be Wise
-date: 2020-04-17 19:43:45
+date: 2020-04-17 19:43:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mustafa-faiz-forbearance-problems-youtube.jpg
-youtube_code: 'https://youtu.be/MIjHP72zc1g'
+youtube_code: uT_RGjx_4vU
 ---
 
 {% include youtube.html %}
