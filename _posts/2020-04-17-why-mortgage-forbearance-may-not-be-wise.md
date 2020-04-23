@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mustafa-faiz-forbearance-problems-youtube.jpg
-youtube_code: 'https://youtu.be/uT_RGjx_4vU'
+youtube_code: mNj9Z4rj3SI
 ---
 
 {% include youtube.html %}
