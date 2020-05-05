@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/29960Zivmhk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you want to lower your monthly mortgage payment, you must eliminate your private mortgage insurance.</em></p>
+
 If you’re looking to lower your monthly mortgage payment, **you can do so by eliminating your primary mortgage insurance (PMI).**
 
 If you bought your home with a down payment of less than 20%, odds are you’re still paying PMI as part of your monthly mortgage payment. The only way to get rid of this is if you’ve built up at least 20% equity in your home. You can also decrease the PMI you’re paying if you’ve built up anything close to 20%.
