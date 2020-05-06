@@ -29,7 +29,7 @@ If you bought your home with a down payment of less than 20%, odds are you’re 
 
 {% include pullquote.html %}
 
-Most homeowners don’t realize that they’ve already probably built up to 20% equity. The more you pay down your principal balance and the higher the value of your property increases, the more your equity builds. However, this rule doesn’t apply to FHA loans. With FHA loans, your PMI is there for the entirety of the loan.&nbsp;
+Most homeowners don’t realize that they’ve already probably built up 20% equity. The more you pay down your principal balance and the higher the value of your property increases, the more your equity builds. However, this rule doesn’t apply to FHA loans. With FHA loans, your PMI is there for the entirety of the loan.&nbsp;
 
 So to determine your equity, **find your home’s current market value, figure out what you owe for your principal balance, and calculate the difference.** If your equity is close to or over 20%, contact your lender and tell them you want to get rid of your PMI.
 
