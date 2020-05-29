@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/usLR2ecs10A'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Things are heating up, and I just mean the weather...</em></p>
+
 Week after week, for the past five weeks, **the Mortgage Bankers Association has reported record-setting numbers of mortgage applications.** This means more and more people have been applying for mortgage loans as they get ready to transact within the next three to six months.&nbsp;
 
 The interest rates are still low, averaging about 3.25%, which is great news for buyers in the Houston area. These signs of a strong and healthy market are also great for Houston area homeowners, especially those who feared that prices would drop and the market would crash; none of that is happening, and we have no reason to believe it will.&nbsp;
