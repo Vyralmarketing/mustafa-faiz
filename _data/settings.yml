@@ -55,7 +55,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'https://web.har.com/aws/disphomeworth.cfm?siteType=aws&cid=633250'
+    CTA_url: 'https://www.har.com/sell_your_home?agent=mfaiz'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -71,7 +71,7 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/RealtorMustafa'
-  linkedin_url:
+  linkedin_url: ttps://www.linkedin.com/in/realtorfaiz/
   youtube_url: 'https://www.youtube.com/channel/UCTXV5fvQc6ZiPt8VIrOnsfQ/videos'
   twitter_url:
   instagram_url:
