@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/usLR2ecs10A'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Things are heating up, and I just mean the weather...</em></p>
+<p style="text-align: center;"><em>Things are heating up, and I don't just mean the weather...</em></p>
 
 Week after week, for the past five weeks, **the Mortgage Bankers Association has reported record-setting numbers of mortgage applications.** This means more and more people have been applying for mortgage loans as they get ready to transact within the next three to six months.&nbsp;
 
@@ -31,7 +31,7 @@ We were in the spring market when lockdown started, so a lot of buyers who had b
 
 Governor Gregg Abbot has announced Phase II of reopening our state economy, which affects the status of open houses. Under lockdown, we were not allowed to conduct open houses in our real estate market, but as recently as this week these restrictions have been lifted. This is great for sellers since it’ll mean greater exposure for your home. For buyers frustrated with the idea of virtual tours and photo browsing, it means you’ll finally have more opportunities to check out a home in person.&nbsp;
 
-Now, **keep in mind we are still following CDC guidelines, which means we’ll be doing everything we can minimize contact and maximize sanitation.&nbsp;**
+Now, **keep in mind we are still following CDC guidelines, which means we’ll be doing everything we can to minimize contact and maximize sanitation.&nbsp;**
 
 As we begin this summer season, I’m personally noticing more and more activity. My buyers and I are safely touring more homes now than we were about a month ago. On some of our listings that went live just a few weeks ago, we’re seeing multiple showings—three or four every day. We’re seeing houses go under contract within days of being listed, and multiple-offer scenarios are still a common affair.&nbsp;
 
