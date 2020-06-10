@@ -27,9 +27,9 @@ As far as the disadvantages are concerned, selling the property will mean you ha
 
 {% include pullquote.html %}
 
-Now let’s talk about the pros and cons for buyers with owner financing. If you can’t get qualified for a regular mortgage, owner financing is the next best vehicle for purchasing a home. **Your monthly mortgage payment will likely be equal to or even less than what you’re paying in rent right now.** Owner financing allows more homebuyers to qualify for a purchase now and refinance later down the road to get more favorable terms.&nbsp;
+Now let’s talk about the pros and cons for buyers with owner financing. If you can’t get qualified for a regular mortgage, owner financing is the next best vehicle for purchasing a home. **Your monthly mortgage payment will likely be equal to or even less than what you’re paying in rent right now.** Owner financing allows more homebuyers to qualify for a purchase now and refinance down the road to get more favorable terms.&nbsp;
 
-The other pro is the tax benefits I discussed before. Owning a home allows you to write off certain expenses to ease your tax burden.
+The other pro is the tax benefits I discussed earlier. Owning a home allows you to write off certain expenses to ease your tax burden.
 
 **The biggest con to buying a home with owner financing is the interest rate.** Regular interest rates are around 3% or 4%, but owner financing rates are from 8% to 10%. These aren’t intended to be 30-year mortgages. The objective of buying with owner financing is working on your credit after you get the mortgage, then refinancing to a lower rate down the line.&nbsp;
 
