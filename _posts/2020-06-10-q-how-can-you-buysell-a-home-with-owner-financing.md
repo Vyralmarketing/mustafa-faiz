@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Buy/Sell a Home With Owner Financing?'
-date: 2020-06-10 14:37:42
+date: 2020-06-10 14:37:00
 tags:
   - Real Estate
 excerpt: Owner financing is another option if a conventional mortgage won’t work.
@@ -21,7 +21,7 @@ Today’s topic is owner financing. We’ll discuss the benefits and disadvantag
 
 If you’re a homeowner who is thinking about selling the property on owner financing terms instead of renting it out or selling it to a conventional buyer, the advantages are clear. You'll be able to generate a pure income, for example. When you sell through owner financing, you won’t incur any additional expenses.&nbsp;
 
-Another benefit is maintenance. **It’s something you will have to worry about if you rent a home out, but won’t be an issue if you just sell outright.** Finally, it’s an ideal investment vehicle. You can live in the home, allow it to grow in value, and sell it down the road to make a profit.
+Another benefit is maintenance. **It’s something you will have to worry about if you rent a home out, but won’t be an issue if you just sell outright.** Finally, it’s an ideal investment vehicle.
 
 As far as the disadvantages are concerned, selling the property will mean you have no right to future appreciation. It also comes with additional tax implications and fewer write off opportunities.
 
