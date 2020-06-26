@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to See Coming Soon Listings Before Your Competition
+title: How to See Coming Soon Listings Before Any Home Buyers
 date: 2020-06-24 16:25:00
 tags:
   - Home Buyer Tips
