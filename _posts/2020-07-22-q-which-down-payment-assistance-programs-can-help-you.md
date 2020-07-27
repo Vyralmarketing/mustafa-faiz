@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: Which Down Payment Assistance Programs Can You Take Advantage Of?'
-date: 2020-07-22 19:56:15
+title: 'Q: Which Down Payment Assistance Programs Can Help You?'
+date: 2020-07-22 19:56:00
 tags:
   - Home Buyer Tips
 excerpt: Here are several down payment assistance programs you can take advantage of.
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/TNSR3lrT5uo'
 
 If you’re thinking of buying a home, there are several down payment assistance programs that encourage homeownership here in Texas.&nbsp;
 
-The money they provide varies from person to person, but it generally ranges from $5,000 to $17,000. **One of the main benefits of these programs is that the minimum credit score to qualify for them remains just 620.** If you’ve been following the mortgage industry lately, you know that many banks and mortgage companies have increased their minimum credit score. Some aren’t even considering applications from anyone with a score of less than 700. At the same time, the interest rate will be the same as a conventional or FHA loan.&nbsp;
+The money they provide varies from person to person, but it generally ranges from $5,000 to $17,000. **One of the main benefits of these programs is that the minimum credit score to qualify for them remains at just 620.** If you’ve been following the mortgage industry lately, you know that many banks and mortgage companies have increased their minimum credit score. Some aren’t even considering applications from anyone with a score of less than 700. At the same time, the interest rate will be the same as a conventional or FHA loan.&nbsp;
 
 Additionally, sellers can contribute to the closing costs so that you end up paying very little out of pocket. In these cases, the earnest money, inspection fees, and appraisal fees are the only costs you’d pay out of pocket.&nbsp;
 
@@ -61,7 +61,7 @@ Here are some of the more popular down payment assistance programs, their benefi
 **3\. TSAHC (Texas State Affordable Housing Corp)**
 
 * Offers the Texas Heroes Program for teachers, police officers, firemen, veterans, and others—as well as the Home Sweet Home Program for everyone else
-* Offers a non repayable grant or bond for up to 5% of the loan amount
+* Offers a non-repayable grant or bond for up to 5% of the loan amount
 * Minimum credit score: 620
 * Maximum purchase price: $294,600
 * Maximum income: $90,620 (does not have to use both borrowers’ income)
@@ -71,7 +71,7 @@ Here are some of the more popular down payment assistance programs, their benefi
 
 **4\. MCC (Mortgage Credit Certificate)&nbsp;**
 
-* You’ll receive a 20% to 25% tax credit on the interest you pay each and every year you have the mortgage with a maximum of $2,000 per year. This gives you the ability to lower the taxes taken out of your paycheck or possibly receive cash back when you file your taxes.
+* You’ll receive a 20% to 25% tax credit on the interest you pay each year you have the mortgage with a maximum of $2,000 per year. This gives you the ability to lower the taxes taken out of your paycheck or possibly receive cash back when you file your taxes.
 
 If you’d like to know more about these and other programs, talk to a loan officer who’s familiar with them—not every loan officer knows how they work. I know plenty of excellent loan officers I’d be happy to refer you to, so just give me a call if you’d like to know more.&nbsp;
 
