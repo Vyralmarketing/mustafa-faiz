@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/gCYFs-eZvzE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a quick summary of how real estate commissions work.</em></p>
+
 Real estate is a service industry, and we agents rely exclusively on commissions to get paid. Of course, a commission only gets doled out if a transaction occurs. You could be working with an agent for months at a time trying to buy or sell a home, but if a transaction doesn’t eventually transpire, no one gets paid; all of that time and effort goes to waste. To give you some insight on how this industry really works, today I’ll explain how commissions are structured for both buyer and seller agents.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
