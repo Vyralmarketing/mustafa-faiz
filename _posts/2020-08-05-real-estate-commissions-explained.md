@@ -33,4 +33,4 @@ Real estate is a service industry, and we agents rely exclusively on commissions
 
 5:51—Wrapping things up
 
-As always, if you have questions about this or any other real estate topic, or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.&nbsp;
+As always, if you have questions about this or any other real estate topic or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.&nbsp;
