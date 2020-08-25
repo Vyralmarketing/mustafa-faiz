@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/uB6u7JuV34o'
 
 <p style="text-align: center;"><em>Buyers: Here are three things you must consider when writing your offer.</em></p>
 
-If you’re an active buyer in this pandemic-impacted 2020 market, you’ve experienced first hand the craziness that’s been making headlines. Homes, especially those in the $300,000 range, are flying off the market with multiple offers. We’re seeing an influx of buyers to the market and a shortage of houses, which is ramping up competition, and pushing prices a bit higher. So, how can you give the offer the highest chance of success?&nbsp;
+If you’re an active buyer in this pandemic-impacted 2020 market, you’ve experienced firsthand the craziness that’s been making headlines. Homes, especially those in the $300,000 range, are flying off the market with multiple offers. We’re seeing an influx of buyers to the market and a shortage of houses, which is ramping up competition and pushing prices a bit higher. So, how can you give the offer the highest chance of success?&nbsp;
 
 **1\. Do not ask the seller to pay your closing costs.** That strategy works in markets where there’s plenty of homes to choose from, but in a strong seller’s market like ours, keep it fair—let the seller pay their closing costs, and agree to pay your own. You can always renegotiate later on, but you should at least avoid asking for this up front.&nbsp;
 
