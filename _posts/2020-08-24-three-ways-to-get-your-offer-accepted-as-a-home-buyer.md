@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Techniques 97% of Buyers Fail
+title: Three Ways To Get Your Offer Accepted As A Home Buyer
 date: 2020-08-24 20:05:50
 tags:
   - Home Buyer Tips
