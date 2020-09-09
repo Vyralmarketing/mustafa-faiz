@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/BZ3RDXvoPJ8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are my three favorite parks in Houston.</em></p>
+
 Today’s video is a little bit different. Instead of covering buyer or seller tips, we’re going to look at real estate in a different way. I’m going to share my top three favorite Houston-area parks, which are all valuable pieces of real estate for what they provide to those who visit.
 
 **The one thing all of these three parks have in common is that they are great places to fish.** Most of the time, I don’t get lucky, but I always have fun. When I do catch something, it’s a bonus. All three of these parks are within the city of Houston, and you should check them out as soon as possible:
