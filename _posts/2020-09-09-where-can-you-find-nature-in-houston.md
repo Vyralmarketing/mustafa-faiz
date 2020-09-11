@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mustafa-faiz-3-favorite-huston-parks-yt.jpg
-youtube_code: 'https://youtu.be/BZ3RDXvoPJ8'
+youtube_code: 'https://youtu.be/FhY-Ah7D93M'
 ---
 
 {% include youtube.html %}
@@ -26,8 +26,8 @@ Today’s video is a little bit different. Instead of covering buyer or seller t
 
 {% include pullquote.html %}
 
-**2\. Mary Jo Peckham Park.** This isn’t as big as the others, but it has so many trees and greenery, along with lots of shade and even mini islands. Not a lot of people know about it, but it’s truly a hidden gem in the city.
+**2\. Mary Jo Peckham Park.** This isn’t as big as the others, but it has so many trees and greenery along with lots of shade and even mini islands. Not a lot of people know about it, but it’s truly a hidden gem in the city.
 
-**1\. Kickerillo-Mischer Preserve.** This park has been my favorite to visit. It’s as close as you can get to nature within the city of Houston. It’s in the Northwest area of town right off of 249. I love being here to be present in nature, having a picnic, doing some fishing, or just some exercise. This spot is famous for bird watching as well.
+**1\. Kickerillo-Mischer Preserve.** This park has been my favorite to visit. It’s as close as you can get to nature within the city of Houston. It’s in the northwest area of town right off of 249. I love going there to be present in nature, have a picnic, do some fishing, or just get some exercise. This spot is famous for bird watching as well.
 
 I know you’re going to love all three of these parks. If you have any others that I should add to my list or want to tell me about your experiences, don’t hesitate to reach out via phone or email. I’d love to talk with you soon.
