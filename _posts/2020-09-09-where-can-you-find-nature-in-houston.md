@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mustafa-faiz-3-favorite-huston-parks-yt.jpg
-youtube_code: 'https://youtu.be/FhY-Ah7D93M'
+youtube_code: 'https://youtu.be/trrpdVd5BVE'
 ---
 
 {% include youtube.html %}
