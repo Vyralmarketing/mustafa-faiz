@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/EQobvdrc7b4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are three tips for how to buy and sell a house simultaneously.</em></p>
+
 Sometimes we get clients who are looking to downsize, upsize, change location, or otherwise make a move that would require them to sell their current house even as they look for a new one. It is possible to pull these transactions off simultaneously, but there are three things you need to do to ensure that the process is as easy and stress-free as possible:
 
 **1\. Make sure you are 100% approved.** The next house you’re looking to buy could be in a different price range, so you need to meet with a loan officer to make sure you’re fully approved based on your current financial situation. You don’t want to find a buyer for your current home just to find out that you don’t even qualify for the new home. You also need to ensure that your buyer is fully approved. To make sure of that, we typically check to see if they have a pre-approval letter, but when the stakes are high, we add another layer of security by requesting the buyer be screened by your own loan officer. Now, the buyer isn’t obligated to use your loan officer; we’d simply ask them to be screened by them so we know if there will be issues down the road.
