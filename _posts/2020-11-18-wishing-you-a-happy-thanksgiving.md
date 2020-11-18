@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/UnBZCRlTg1w'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what I’m grateful for this Thanksgiving.</em></p>
+
 2020 has been quite challenging for all of us, but now that Thanksgiving is here, it’s time for all of us to reflect on what we’re grateful for.&nbsp;
 
 I’m grateful for the health and wellbeing of my family: my parents, siblings, wife, and children. I’m grateful we all have a roof over our heads and food on the table, and that we can still go out and enjoy life’s simple pleasures.&nbsp;
