@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wishing you a happy Thanksgiving
+title: Wishing You a Happy Thanksgiving
 date: 2020-11-18 14:21:54
 tags:
 excerpt: Here’s what I’m grateful for this Thanksgiving.
@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/UnBZCRlTg1w'
 
 2020 has been quite challenging for all of us, but now that Thanksgiving is here, it’s time for all of us to reflect on what we’re grateful for.&nbsp;
 
-I’m grateful for the health and wellbeing of my family: my parents, siblings, wife, and children. I’m grateful we all have a roof over our heads and food on the table, and that we can still go out and enjoy life’s simple pleasures.&nbsp;
+I’m grateful for the health and wellbeing of my family: my parents, siblings, wife, and children. I’m grateful we all have a roof over our heads and food on the table, and that we can still enjoy life’s simple pleasures.&nbsp;
 
 {% include pullquote.html %}
 
