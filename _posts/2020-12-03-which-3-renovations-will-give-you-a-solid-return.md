@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/sKsr4kc6KzQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a (purposefully) short list of renovations sellers should focus on.</em></p>
+
 If you’re thinking about renovating your home with the goal of selling it, then you should focus only on the following three areas of your home:&nbsp;
 
 **1\. The kitchen.** Make sure you have granite countertops, stainless steel appliances if possible, and lightning that gives the space a bright, open feeling. That means replacing older lighting fixtures with recessed lights, which are not that expensive. Creating the right ambience here—one that’ll sway a buyer’s decision—requires less work than you might think.&nbsp;
