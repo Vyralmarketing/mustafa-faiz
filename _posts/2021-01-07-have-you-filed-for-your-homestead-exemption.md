@@ -19,7 +19,7 @@ youtube_code: 1VnTwmSjdks
 
 <p style="text-align: center;"><em>Here’s a tip about how you can save money on your property taxes.</em></p>
 
-With a homestead exemption, you can save money every year on your property taxes. Say your home is worth $100,000; after getting a 20% discount (for example) with your homestead exemption, the county will assume the value of your property to be $80,000, and you’ll pay taxes on your home for that amount. There are several types of exemptions for which you could qualify. The most basic one is the homestead exemption, but there’s also the over 65 exemption, the disability property tax exemption, and more.
+With a homestead exemption, you can save money every year on your property taxes. Say your home is worth $100,000; after getting a 20% discount (for example) with your homestead exemption, the county will assume the value of your property to be $80,000, and you’ll pay taxes on your home for that amount. There are several types of exemptions for which you could qualify. The most basic one is the homestead exemption, but there’s also the over-65 exemption, the disability property tax exemption, and more.
 
 {% include pullquote.html %}
 
