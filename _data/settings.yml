@@ -43,8 +43,8 @@ sidebar_CTA:
     CTA_url: 'https://www.har.com/sell_your_home?agent=mfaiz'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: Lets Get in touch 
-    CTA_text2: Talk to RE/MAX® agent Mustafa Faiz
+    CTA_title2: Talk to RE/MAX® agent Mustafa Faiz
+    CTA_text2: 
     CTA_link_text2: "Contact Me Today"
     CTA_url2: https://homesguidehouston.com/contact
 lender:
