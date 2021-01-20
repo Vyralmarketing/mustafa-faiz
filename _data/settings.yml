@@ -41,6 +41,12 @@ sidebar_CTA:
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
     CTA_url: 'https://www.har.com/sell_your_home?agent=mfaiz'
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.jpg
+    CTA_title2: 
+    CTA_text2: 
+    CTA_link_text2: "Contact"
+    CTA_url2: https://homesguidehouston.com/
 lender:
   show_section: false
   header_text: Preferred Lender
