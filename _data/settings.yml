@@ -44,8 +44,8 @@ sidebar_CTA:
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: 
-    CTA_text2: 
-    CTA_link_text2: "Contact"
+    CTA_text2: Talk to RE/MAX® agent Mustafa Faiz
+    CTA_link_text2: "Contact Me Today"
     CTA_url2: https://homesguidehouston.com/
 lender:
   show_section: false
