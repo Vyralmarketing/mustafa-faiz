@@ -17,6 +17,8 @@ youtube_code: PZjJ8qcaNrw
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how you can find a home in a tough market like ours.</em></p>
+
 2020 as a whole was a hot seller’s market driven by low interest rates and low inventory. Those conditions have naturally spilled over into the new year, and they’re making it hard for buyers to find a good house, and if they do, there’s a good chance they’ll have to compete against other offers for it. Fortunately, if you are a buyer, there are three strategies my team and I have perfected that you can use to find an ideal off-market property you don’t have to compete for:
 
 **1\. Circle prospecting (within the community you’re looking to buy in).** For example, if a client is looking for a two-story home with a pool that’s somewhere between 2,500 and 3,000 square feet in the Alianna subdivision, we have the tools to identify such properties and call the homeowners to see if they’re interested in selling. Last year, using this strategy alone, we were able to find multiple properties for our clients.&nbsp;
