@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mustafa-finding-a-home-in-a-tough-market-yt.jpg
-youtube_code: PZjJ8qcaNrw
+youtube_code: hqQZVEaK1lE
 ---
 
 {% include youtube.html %}
