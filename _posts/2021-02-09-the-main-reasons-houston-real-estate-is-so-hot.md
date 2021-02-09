@@ -16,6 +16,8 @@ youtube_code: 6ctLRt86Ae4
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a closer look at why real estate continues to remain strong.</em></p>
+
 There are two reasons why the real estate market is hot even though we are still in a pandemic and unemployment is still high:
 
 **1\. Low interest rates<br>2\. Low inventory**
