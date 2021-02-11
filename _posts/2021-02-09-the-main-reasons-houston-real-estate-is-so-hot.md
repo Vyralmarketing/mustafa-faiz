@@ -5,7 +5,7 @@ date: 2021-02-09 14:39:10
 tags:
   - Real Estate
 excerpt: Here’s a closer look at why real estate continues to remain strong.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/The+Main+Reasons+Houston+Real+Estate+Is+So+Hot.mp4
 pullquote: It’s the perfect time to buy because of these low rates.
 enclosure_type: video/mp4
 enclosure_time:
