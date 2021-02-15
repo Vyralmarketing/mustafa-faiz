@@ -4,9 +4,6 @@
 {% include head.html %}
 
 	<body>
-		{% if site.data.settings.audit_header == true %}
-			{% include audit.html %}
-		{% endif %}
 		{% include header.html %}
 		<div class="container-fluid">
 			<div class="row">
@@ -32,9 +29,7 @@
 					{% include socials.html %}
 					{% include search-box.html %}
 					{% include zillow.html %}
-					{% include emma-form.html %}
 					{% include cta-sidebar.html %}
-					{% include lender.html %}
 					{% include blog-archive-category.html %}
 					{% include reviews.html %}
 				</div>
@@ -43,7 +38,6 @@
 			</div>
 			{% include pagination.html %}
 			{% include about.html %}
-			{% include testimonials.html %}
 			{% include top-button.html %}
 			{% include bottom-navigation.html %}
 			{% include footer.html %}
