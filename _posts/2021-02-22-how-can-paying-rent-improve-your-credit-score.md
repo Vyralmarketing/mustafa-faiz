@@ -16,6 +16,8 @@ youtube_code: Bkg7Lr4-zC4
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>This is a fantastic tool to build your credit while you’re still renting.</em></p>
+
 Today I have a quick tip for you if you’ve been renting a property and want to use your rental history to help your credit score.
 
 I was recently made aware of a service called [rentreporters.com.](https://www.rentreporters.com/) **If you go to their website, they offer a service where they will report your on-time rental payments to the credit bureaus, which will help raise your credit score.**
