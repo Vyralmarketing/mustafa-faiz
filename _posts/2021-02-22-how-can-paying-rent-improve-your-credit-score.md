@@ -24,4 +24,4 @@ I was recently made aware of a service called [rentreporters.com.](https://www.r
 
 This is a fantastic service for any renters who are trying to build their credit. Mortgages are always reported, but why isn’t rent? I haven’t personally used them and this is not an endorsement, but **I have talked to others who have used the service to increase their credit score to qualify to purchase a home.**
 
-If you have any questions about this or anything else related to real estate , don’t hesitate to reach out to me via phone or email. I look forward to hearing from you soon.
+If you have any questions about this or anything else related to real estate, don’t hesitate to reach out to me via phone or email. I look forward to hearing from you soon.
