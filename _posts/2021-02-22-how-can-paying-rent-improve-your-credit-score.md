@@ -5,7 +5,7 @@ date: 2021-02-22 18:54:14
 tags:
   - Real Estate
 excerpt: This is a fantastic tool to build your credit while you’re still renting.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/How+Can+Paying+Rent+Improve+Your+Credit+Score_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
