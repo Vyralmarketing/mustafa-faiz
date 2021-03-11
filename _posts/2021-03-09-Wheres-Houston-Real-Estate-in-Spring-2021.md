@@ -5,7 +5,7 @@ date: 2021-03-09 00:00:00
 tags:
   - Market Update
 excerpt: Here’s a quick look at what the market’s like for buyers, sellers, etc.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/Where%E2%80%99s+Houston+Real+Estate+in+Spring+2021_.mp4
 pullquote: This market is extremely competitive for homebuyers and can be frustrating.
 enclosure_type: video/mp4
 enclosure_time:
