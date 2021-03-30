@@ -5,7 +5,8 @@ date: 2021-03-29 15:28:00
 tags:
   - Home Seller Tips
 excerpt: Here are three things that matter in an offer besides the purchase price.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/Why+Price+Isn%E2%80%99t+the+Most+Important+Thing+When+Selling+a+Home.mp4
 pullquote: Offers without contingencies are always stronger than those with them.
 enclosure_type: video/mp4
 enclosure_time:
