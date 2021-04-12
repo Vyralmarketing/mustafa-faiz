@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Waive Your Appraisal Addendum to Strengthen Your Offer
-date: 2021-04-08 18:16:41
+date: 2021-04-08 18:16:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how waiving the appraisal addendum can strengthen your offer.
@@ -25,7 +25,7 @@ First, let’s define the appraisal addendum. **This addendum allows you to waiv
 
 {% include pullquote.html %}
 
-**Essentially, waiving the appraisal gives you an advantage over other buyers** because you’re ensuring sellers that they don’t need to worry about renegotiating in the event of a low appraisal. I normally wouldn’t advise buyers to take on this strategy, but in a strong seller’s market like this one, where any home listed under $400,000 receives 15 to 20 offers the very first day, you need to make your offer as strong as possible.&nbsp;
+**Essentially, waiving the appraisal gives you an advantage over other buyers** because you’re ensuring sellers that they don’t need to worry about renegotiating in the event of a low appraisal. I normally wouldn’t advise buyers to take on this strategy, but in a strong seller’s market like this one where any home listed under $400,000 receives 15 to 20 offers the very first day, you need to make your offer as strong as possible.&nbsp;
 
 In this red-hot market, buyers are hardly giving any thought to price because they’re securing such low interest rates (2.6%, 2.7%, etc.). The challenge is actually getting the contract, so getting a contract is akin to securing a deal. More and more buyers are waiving their appraisals, so you’ll have to compete in the appraisal world as well, just in case the offer comes in lower.&nbsp;
 
