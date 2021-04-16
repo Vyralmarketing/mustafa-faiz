@@ -5,7 +5,8 @@ date: 2021-04-08 18:16:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how waiving the appraisal addendum can strengthen your offer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/Waive+Your+Appraisal+Addendum+to+Strengthen+Your+Offer.mp4
 pullquote: >-
   In this red-hot market, buyers are hardly giving any thought to price because
   they’re securing such low interest rates.
