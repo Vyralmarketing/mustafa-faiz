@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can You Still Find a Home in This Crazy Hot Market?
+title: How Can You Still Find a Home in This Crazy-Hot Market?
 date: 2021-05-11 00:00:00
 tags:
   - Home Buyer Tips
@@ -10,7 +10,7 @@ pullquote: Expand your search using these three strategies.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-10---mustafa-faiz---yt.jpg
+youtube_alternate_image: /uploads/mustafa-faiz-findign-a-home-in-this-hot-market-yt.jpg
 youtube_code: 3lgvpMjn8KY
 ---
 {% include youtube.html %}
