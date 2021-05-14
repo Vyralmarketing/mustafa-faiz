@@ -21,7 +21,7 @@ The market is crazy and I know you've been touring a lot of houses and making of
 
 **1\. Don’t discount new builds.** They won’t have as much competition. There won’t be multiple offers. You're not going to get the information for new builds on major websites like Zillow. You need to go into these new communities and make relationships with the salespeople or let your real estate agent handle all that for you.
 
-**2\. Calling for sale by owners.** FSBO properties are also not going to be listed on major home search websites because they're not part of the MLS. If you do identify some properties that are for sale by owners and go take a look at them, you could strike a deal with the sellers.
+**2\. Calling for sale by owners.** FSBO properties are also not going to be listed on major home search websites because they're not part of the MLS. If you do identify some properties that are for sale by owners and go take a look at them, you could strike a deal with the sellers.&nbsp;
 
 **3\. Calling neighborhoods.** This requires the most amount of work. If you identify one to three neighborhoods that you want to buy a home in, pass that information to your real estate agent and have them do what's called circle prospecting. Your real estate agent is going to call these neighborhoods trying to find a seller.
 
