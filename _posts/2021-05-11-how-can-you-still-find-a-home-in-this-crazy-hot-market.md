@@ -5,7 +5,8 @@ date: 2021-05-11 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: My team and I use these strategies to find homes for our clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/How+Can+You+Still+Find+a+Home+in+This+Crazy+Hot+Market_.mp4
 pullquote: Expand your search using these three strategies.
 enclosure_type: video/mp4
 enclosure_time:
