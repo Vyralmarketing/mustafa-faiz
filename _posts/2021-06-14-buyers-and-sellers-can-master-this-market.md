@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Market Update
 excerpt: 'Here’s why 2021 is a great year for buyers and sellers. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mustafa+Faiz/Buyers+and+Sellers+Can+Master+This+Market.mp4
 pullquote: Make sure you take advantage of our market now.
 enclosure_type: video/mp4
 enclosure_time:
