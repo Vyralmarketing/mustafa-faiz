@@ -5,7 +5,7 @@ date: 2021-08-31 00:00:00
 tags:
   - Real Estate
   - home selling
-excerpt: Here’s six easy to help your home sell faster and for more money.
+excerpt: Here are six mistakes you need to avoid when selling your home.
 enclosure:
 pullquote: Your home is a product, and it’s competing with all the other homes out there.
 enclosure_type: video/mp4
