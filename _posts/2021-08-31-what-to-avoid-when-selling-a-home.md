@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What To Avoid When Selling a Home.
+title: What To Avoid When Selling a Home
 date: 2021-08-31 00:00:00
 tags:
   - Real Estate
